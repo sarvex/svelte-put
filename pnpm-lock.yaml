@@ -226,8 +226,8 @@ importers:
         specifier: 1.22.3
         version: 1.22.3(svelte@4.1.1)(vite@4.4.7)
       '@sveltejs/package':
-        specifier: 2.2.0
-        version: 2.2.0(svelte@4.1.1)(typescript@5.1.6)
+        specifier: 2.2.3
+        version: 2.2.3(svelte@4.1.1)(typescript@5.1.6)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -300,8 +300,8 @@ importers:
         specifier: 1.22.3
         version: 1.22.3(svelte@4.1.1)(vite@4.4.7)
       '@sveltejs/package':
-        specifier: 2.2.0
-        version: 2.2.0(svelte@4.1.1)(typescript@5.1.6)
+        specifier: 2.2.3
+        version: 2.2.3(svelte@4.1.1)(typescript@5.1.6)
       npm-run-all:
         specifier: ^4.1.5
         version: 4.1.5
@@ -1725,8 +1725,8 @@ packages:
       - supports-color
     dev: true
 
-  /@sveltejs/package@2.2.0(svelte@4.1.1)(typescript@5.1.6):
-    resolution: {integrity: sha512-TXbrzsk+T5WNcSzrU41D8P32vU5guo96lVS11/R+rpLhZBH5sORh0Qp6r68Jg4O5vcdS3JLwpwcpe8VFbT/QeA==}
+  /@sveltejs/package@2.2.3(svelte@4.1.1)(typescript@5.1.6):
+    resolution: {integrity: sha512-iZEC5qw+2RIjfIAHR3O+IeokJIjVM/ieoxPxj6YmZCwu5JKFADtC4jzjSUJ7GkCMUQ4HqE7u4/3cCxXBocxi8A==}
     engines: {node: ^16.14 || >=18}
     hasBin: true
     peerDependencies:
